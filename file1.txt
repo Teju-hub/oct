@@ -1,2 +1,4 @@
 This is my new file for git testing.
 hello
+
+i am from feature1 branch
